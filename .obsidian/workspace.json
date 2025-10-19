@@ -11,12 +11,24 @@
             "id": "4d22aabebc2c1dcc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png"
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "4de7d21360cd4173a985dc5444c03d37"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -69,17 +81,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
-            "id": "2a438f42881790e6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -148,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png",
+                "file": "General/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4de7d21360cd4173a985dc5444c03d37"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -197,12 +199,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d22aabebc2c1dcc",
+  "active": "b828b5444dbb7d2d",
   "lastOpenFiles": [
+    "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png",
     "zzzAttachments/4d31830adde5438f81b5c979c3c4667a.png",
     "zzzAttachments/4cbaf6c41f5f46c3b0c26714464f3c7f.png",
     "zzzAttachments/4b5c92319a8f455fb409dca2b9062e8b.png",
@@ -213,7 +215,6 @@
     "zzzAttachments/2bfdf2445ff344df8f5f0c2f4bd9b2c9.png",
     "zzzAttachments/2a5580d256874d28a331b22237fcf99d.png",
     "zzzAttachments/1f37bf59ccb24eb78c56f9802ce00184.png",
-    "zzzAttachments/1ea0299dbd2d45b188c8ad56ae3b7ebd.png",
     "ASP/1/V2. Einführung zu C.md",
     "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/1/P.md",
