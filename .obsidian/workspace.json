@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "5e97fc8571d0e358",
+    "type": "split",
+    "children": [
+      {
+        "id": "68d5634010fcf24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d22aabebc2c1dcc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png"
+              },
+              "icon": "lucide-image",
+              "title": "4de7d21360cd4173a985dc5444c03d37"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d098dbf52fe91768",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b03520c975af93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b828b5444dbb7d2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eca6c85e360abb15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e90b949568d6e5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2a438f42881790e6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "d265b1f13a1bf8d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "538974119564afdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c59a67f740cce04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "21e6cc4f5803dede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "10474864b98f7fc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47cd71eb0790570f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4de7d21360cd4173a985dc5444c03d37"
+            }
+          },
+          {
+            "id": "dd4aea2a2a616c7f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "6e00bfd329fe09b5a6738f833cfda714.jpg"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "8a26f5eb489d3cf9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "4d22aabebc2c1dcc",
+  "lastOpenFiles": [
+    "zzzAttachments/4d31830adde5438f81b5c979c3c4667a.png",
+    "zzzAttachments/4cbaf6c41f5f46c3b0c26714464f3c7f.png",
+    "zzzAttachments/4b5c92319a8f455fb409dca2b9062e8b.png",
+    "zzzAttachments/3d08a381f5c243fdaeb91535cef6e292.png",
+    "zzzAttachments/3a70ac4e57bd439890daa368f7a6b789.png",
+    "zzzAttachments/2f7b47fb41c641a488aba46e7b5bdc46.png",
+    "zzzAttachments/2c136d94b40a4d6191b90d17145278e5.png",
+    "zzzAttachments/2bfdf2445ff344df8f5f0c2f4bd9b2c9.png",
+    "zzzAttachments/2a5580d256874d28a331b22237fcf99d.png",
+    "zzzAttachments/1f37bf59ccb24eb78c56f9802ce00184.png",
+    "zzzAttachments/1ea0299dbd2d45b188c8ad56ae3b7ebd.png",
+    "ASP/1/V2. Einführung zu C.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "ASP/1/P.md",
+    "General/TODO.md",
+    "Hello World.md",
+    "ImGe/1. Games Humans Machines.md",
+    "General/Klausuren.md",
+    "GDB/3. Das Relationale Modell.md",
+    "GDB/1. Einführung.md",
+    "GDB/0.md",
+    "GBS/0.md",
+    "ASP/0.md",
+    "ASP/1.md",
+    "ImGe",
+    "General",
+    "GDB",
+    "GBS",
+    "ASP/1",
+    "ASP",
+    "zzzAttachments",
+    "W2526/ImGe/1. Games Humans Machines.md",
+    "W2526/ImGe",
+    "W2526/General/Klausuren.md",
+    "W2526/General",
+    "W2526/GDB/3. Das Relationale Modell.md",
+    "W2526/GDB/1. Einführung.md",
+    "W2526/GDB/0.md",
+    "W2526/GDB",
+    "W2526/GBS/0.md",
+    "W2526/ASP/1/V2. Einführung zu C.md",
+    "W2526/ASP/1/V1. Assembly Grundlagen 1.md",
+    "W2526/ASP/1/P.md",
+    "W2526/ASP/1.md",
+    "W2526/ASP/0.md",
+    "Untitled.md",
+    "Untitled.canvas"
+  ]
+}
