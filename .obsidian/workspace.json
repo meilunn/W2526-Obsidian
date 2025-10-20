@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68d5634010fcf24b",
+        "id": "fdc55ebeb1ca0de5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d22aabebc2c1dcc",
+            "id": "c1d37e6fc4f58ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/TODO.md",
+                "file": "ImGe/1. Games Humans Machines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "1. Games Humans Machines"
             }
           }
         ]
@@ -122,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ImGe/1. Games Humans Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1. Games Humans Machines"
             }
           },
           {
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/TODO.md",
+                "file": "ImGe/1. Games Humans Machines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 1. Games Humans Machines"
             }
           },
           {
@@ -165,7 +166,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "6e00bfd329fe09b5a6738f833cfda714.jpg"
+                "file": "ImGe/1. Games Humans Machines.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -199,11 +200,34 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b828b5444dbb7d2d",
+  "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
+    "GDB/3. Das Relationale Modell.md",
+    "GDB/1. Einführung.md",
+    "GDB/0.md",
+    "GBS/0.md",
+    "lxhalle.in.tum.de.md",
+    "ASP/0.md",
+    "ASP/1/V2. Einführung zu C.md",
+    "zzzAttachments/Ink/Writing/2025.10.20 - 3.36am.writing",
+    "zzzAttachments/Ink/Writing",
+    "zzzAttachments/Ink",
+    "Excalidraw/Drawing 2025-10-20 03.33.25.excalidraw.md",
+    "Excalidraw",
+    "Attachments/Ink/Writing/2025.10.20 - 3.33am.writing",
+    "Attachments/Ink/Writing",
+    "Attachments/Ink/Drawing/2025.10.20 - 3.32am.drawing",
+    "Attachments/Ink/Drawing",
+    "Attachments/Ink",
+    "Attachments",
+    "Excalidraw/Drawing 2025-10-20 03.30.03.excalidraw.md",
+    "Untitled.canvas",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "General/TODO.md",
     "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png",
     "zzzAttachments/4d31830adde5438f81b5c979c3c4667a.png",
     "zzzAttachments/4cbaf6c41f5f46c3b0c26714464f3c7f.png",
@@ -214,42 +238,20 @@
     "zzzAttachments/2c136d94b40a4d6191b90d17145278e5.png",
     "zzzAttachments/2bfdf2445ff344df8f5f0c2f4bd9b2c9.png",
     "zzzAttachments/2a5580d256874d28a331b22237fcf99d.png",
-    "zzzAttachments/1f37bf59ccb24eb78c56f9802ce00184.png",
-    "ASP/1/V2. Einführung zu C.md",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/1/P.md",
-    "General/TODO.md",
     "Hello World.md",
     "ImGe/1. Games Humans Machines.md",
     "General/Klausuren.md",
-    "GDB/3. Das Relationale Modell.md",
-    "GDB/1. Einführung.md",
-    "GDB/0.md",
-    "GBS/0.md",
-    "ASP/0.md",
     "ASP/1.md",
-    "ImGe",
-    "General",
-    "GDB",
-    "GBS",
-    "ASP/1",
-    "ASP",
-    "zzzAttachments",
     "W2526/ImGe/1. Games Humans Machines.md",
-    "W2526/ImGe",
     "W2526/General/Klausuren.md",
-    "W2526/General",
     "W2526/GDB/3. Das Relationale Modell.md",
     "W2526/GDB/1. Einführung.md",
     "W2526/GDB/0.md",
-    "W2526/GDB",
     "W2526/GBS/0.md",
     "W2526/ASP/1/V2. Einführung zu C.md",
     "W2526/ASP/1/V1. Assembly Grundlagen 1.md",
     "W2526/ASP/1/P.md",
-    "W2526/ASP/1.md",
-    "W2526/ASP/0.md",
-    "Untitled.md",
-    "Untitled.canvas"
+    "W2526/ASP/1.md"
   ]
 }

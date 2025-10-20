@@ -1,0 +1,21 @@
+{
+  "onboardingTips": {
+    "welcomeTipRead": false,
+    "strokeLimitTipRead": false,
+    "lastVersionTipRead": ""
+  },
+  "customAttachmentFolders": true,
+  "noteAttachmentFolderLocation": "root",
+  "notelessAttachmentFolderLocation": "obsidian",
+  "writingSubfolder": "zzzAttachments/Ink/Writing",
+  "drawingSubfolder": "zzzAttachments/Ink/Drawing",
+  "writingEnabled": true,
+  "writingStrokeLimit": 200,
+  "writingDynamicStrokeThickness": true,
+  "writingSmoothing": false,
+  "writingLinesWhenLocked": true,
+  "writingBackgroundWhenLocked": true,
+  "drawingEnabled": true,
+  "drawingFrameWhenLocked": false,
+  "drawingBackgroundWhenLocked": false
+}
