@@ -1,0 +1,29 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "def": 1,
+    "def/gbs": 1,
+    "excalidraw": 2,
+    "important": 3,
+    "important/asp": 1,
+    "def/gdb": 2,
+    "gdb": 4,
+    "gdb/def": 1,
+    "asp": 5,
+    "asp/important": 1,
+    "asp/importantTeilregister": 2,
+    "asp/importantÜbersicht": 3,
+    "gbs": 6,
+    "gbs/def": 1
+  },
+  "_version": 3
+}

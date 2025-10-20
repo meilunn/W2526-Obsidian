@@ -9,12 +9,13 @@
   "remember-cursor-position",
   "mathlive",
   "obsidian-latex-suite",
-  "obsidian-paste-image-rename",
   "code-styler",
   "file-explorer-plus",
   "omnisearch",
   "obsidian-tasks-plugin",
   "cmdr",
   "obsidian-excalidraw-plugin",
-  "ink"
+  "ink",
+  "colored-tags",
+  "tag-wrangler"
 ]

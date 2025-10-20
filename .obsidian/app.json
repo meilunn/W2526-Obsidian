@@ -1,5 +1,8 @@
 {
   "spellcheck": false,
-  "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "zzzAttachments",
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1d37e6fc4f58ba2",
+            "id": "15269f06ebd9f3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImGe/1. Games Humans Machines.md",
+                "file": "GDB/3. Das Relationale Modell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Games Humans Machines"
+              "title": "3. Das Relationale Modell"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#def/gdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -122,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ImGe/1. Games Humans Machines.md",
+                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Games Humans Machines"
+              "title": "Outgoing links from 3. Das Relationale Modell"
             }
           },
           {
@@ -137,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ImGe/1. Games Humans Machines.md",
+                "file": "GDB/3. Das Relationale Modell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Games Humans Machines"
+              "title": "Outline of 3. Das Relationale Modell"
             }
           },
           {
@@ -166,7 +167,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "ImGe/1. Games Humans Machines.md"
+                "file": "GDB/3. Das Relationale Modell.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -191,25 +192,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
-    "GDB/3. Das Relationale Modell.md",
+    "zzzAttachments/Pasted image 20251020191428.png",
+    "zzzAttachments/Pasted image 20251020191311.png",
+    "zzzAttachments/Pasted image 20251020191028.png",
+    "zzzAttachments/Pasted image 20251020190952.png",
+    "zzzAttachments/Pasted image 20251020190850.png",
     "GDB/1. Einführung.md",
+    "GBS/1. Einführung.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "GDB/3. Das Relationale Modell.md",
+    "zzzAttachments/Pasted image 20251020183942.png",
+    "zzzAttachments/Pasted image 20251020180426.png",
     "GDB/0.md",
+    "ASP/1/P.md",
+    "zzzAttachments/Pasted image 20251020175110.png",
+    "Attachments/Pasted image 20251020175043.png",
+    "Attachments",
+    "zzzAttachments/Systemstruktur.png",
+    "Attachments/ASP_Blatt_01.pdf",
+    "General/TODO.md",
+    "ASP/1/Blatt 1.pdf",
+    "Excalidraw/Drawing 2025-10-20 16.16.29.excalidraw.md",
+    "Excalidraw",
+    "zzzAttachments/Von-Neumann.png",
     "GBS/0.md",
+    "ImGe/1. Games Humans Machines.md",
     "lxhalle.in.tum.de.md",
     "ASP/0.md",
     "ASP/1/V2. Einführung zu C.md",
@@ -217,30 +239,12 @@
     "zzzAttachments/Ink/Writing",
     "zzzAttachments/Ink",
     "Excalidraw/Drawing 2025-10-20 03.33.25.excalidraw.md",
-    "Excalidraw",
     "Attachments/Ink/Writing/2025.10.20 - 3.33am.writing",
     "Attachments/Ink/Writing",
     "Attachments/Ink/Drawing/2025.10.20 - 3.32am.drawing",
-    "Attachments/Ink/Drawing",
-    "Attachments/Ink",
-    "Attachments",
     "Excalidraw/Drawing 2025-10-20 03.30.03.excalidraw.md",
     "Untitled.canvas",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
-    "General/TODO.md",
-    "zzzAttachments/4de7d21360cd4173a985dc5444c03d37.png",
-    "zzzAttachments/4d31830adde5438f81b5c979c3c4667a.png",
-    "zzzAttachments/4cbaf6c41f5f46c3b0c26714464f3c7f.png",
-    "zzzAttachments/4b5c92319a8f455fb409dca2b9062e8b.png",
-    "zzzAttachments/3d08a381f5c243fdaeb91535cef6e292.png",
-    "zzzAttachments/3a70ac4e57bd439890daa368f7a6b789.png",
-    "zzzAttachments/2f7b47fb41c641a488aba46e7b5bdc46.png",
-    "zzzAttachments/2c136d94b40a4d6191b90d17145278e5.png",
-    "zzzAttachments/2bfdf2445ff344df8f5f0c2f4bd9b2c9.png",
-    "zzzAttachments/2a5580d256874d28a331b22237fcf99d.png",
-    "ASP/1/P.md",
     "Hello World.md",
-    "ImGe/1. Games Humans Machines.md",
     "General/Klausuren.md",
     "ASP/1.md",
     "W2526/ImGe/1. Games Humans Machines.md",
@@ -249,9 +253,6 @@
     "W2526/GDB/1. Einführung.md",
     "W2526/GDB/0.md",
     "W2526/GBS/0.md",
-    "W2526/ASP/1/V2. Einführung zu C.md",
-    "W2526/ASP/1/V1. Assembly Grundlagen 1.md",
-    "W2526/ASP/1/P.md",
-    "W2526/ASP/1.md"
+    "W2526/ASP/1/V2. Einführung zu C.md"
   ]
 }
