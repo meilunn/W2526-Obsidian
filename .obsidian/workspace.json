@@ -10,6 +10,7 @@
           {
             "id": "15269f06ebd9f3d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -27,32 +28,9 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TODO"
-            }
-          },
-          {
-            "id": "d4afa7d7460afa91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GBS/1. Einführung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1. Einführung"
             }
           },
           {
@@ -79,8 +57,7 @@
               "title": "2. Prozess- und Prozessorverwaltung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +193,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "GBS/1. Einführung.md"
+                "file": "General/TODO.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,11 +231,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d4afa7d7460afa91",
+  "active": "15269f06ebd9f3d4",
   "lastOpenFiles": [
     "GBS/2. Prozess- und Prozessorverwaltung.md",
-    "GBS/1. Einführung.md",
     "General/TODO.md",
+    "GBS/1. Einführung.md",
     "GDB/3. Das Relationale Modell.md",
     "zzzAttachments/Pasted image 20251022182842.png",
     "zzzAttachments/Pasted image 20251022181650.png",

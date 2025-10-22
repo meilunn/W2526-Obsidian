@@ -47,7 +47,8 @@ due after two days
 - [ ] TODO check GDB lösungen 📅 2025-10-24 🔁 every week 
 - [ ] TODO GDB Quiz 🔁 every week 📅 2025-10-29
 - [x] TODO GDB Quiz 🔁 every week 📅 2025-10-22
-- [ ] TODO Analysis blatt 📅 2025-10-22 
-- [ ] TODO GBS Notes 📅 2025-10-22 
+- [x] TODO Analysis blatt 📅 2025-10-22
+- [ ] TODO GBS Notes 🔁 every week 📅 2025-10-29
+- [x] TODO GBS Notes 🔁 every week 📅 2025-10-22
 - [ ] TODO GDB Notes 📅 2025-10-28 🔁 every week 
-- [ ] 
+- [ ] TODO GDB Blatt 📅 2025-10-29 🔁 every week 
