@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68d5634010fcf24b",
+        "id": "fdc55ebeb1ca0de5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d22aabebc2c1dcc",
+            "id": "15269f06ebd9f3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GBS/0.md",
+                "file": "General/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "TODO"
             }
           },
           {
-            "id": "1a660b969bb61226",
+            "id": "d4afa7d7460afa91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "17e6175a538d5308",
+            "id": "013d27e7a71b33b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -171,11 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3. Das Relationale Modell"
             }
           },
           {
@@ -185,7 +187,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/TODO.md",
+                "file": "GDB/3. Das Relationale Modell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 3. Das Relationale Modell"
             }
           },
           {
@@ -214,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "6e00bfd329fe09b5a6738f833cfda714.jpg"
+                "file": "GBS/1. Einführung.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -243,62 +245,62 @@
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a660b969bb61226",
+  "active": "d4afa7d7460afa91",
   "lastOpenFiles": [
-    "Untitled.md",
-    "GBS/1. Einführung.md",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
-    "GBS/0.md",
+    "GBS/1. Einführung.md",
+    "General/TODO.md",
+    "GDB/3. Das Relationale Modell.md",
+    "zzzAttachments/Pasted image 20251022182842.png",
+    "zzzAttachments/Pasted image 20251022181650.png",
+    "zzzAttachments/Pasted image 20251022171944.png",
+    "zzzAttachments/Pasted image 20251022170933.png",
+    "zzzAttachments/Pasted image 20251022170713.png",
+    "zzzAttachments/Pasted image 20251022170009.png",
+    "zzzAttachments/Pasted image 20251022164743.png",
+    "zzzAttachments/Pasted image 20251022161705.png",
     "zzzAttachments/Pasted image 20251022121524.png",
     "zzzAttachments/Pasted image 20251022120722.png",
-    "General/TODO.md",
-    "zzzAttachments/Von-Neumann.png",
-    "zzzAttachments/Systemstruktur.png",
-    "zzzAttachments/Pasted image 20251020191428.png",
-    "zzzAttachments/Pasted image 20251020191311.png",
-    "zzzAttachments/Pasted image 20251020191028.png",
-    "zzzAttachments/Pasted image 20251020190952.png",
-    "zzzAttachments/Pasted image 20251020190850.png",
-    "zzzAttachments/Pasted image 20251020183942.png",
-    "ASP/1/Blatt 1.pdf",
-    "ASP/1/V2. Einführung zu C.md",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
-    "ASP/1/P.md",
-    "Hello World.md",
-    "ImGe/1. Games Humans Machines.md",
-    "General/Klausuren.md",
-    "GDB/3. Das Relationale Modell.md",
     "GDB/1. Einführung.md",
     "GDB/0.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "ASP/1/P.md",
+    "Attachments",
+    "Attachments/ASP_Blatt_01.pdf",
+    "ASP/1/Blatt 1.pdf",
+    "Excalidraw/Drawing 2025-10-20 16.16.29.excalidraw.md",
+    "Excalidraw",
+    "GBS/0.md",
+    "ImGe/1. Games Humans Machines.md",
+    "lxhalle.in.tum.de.md",
     "ASP/0.md",
+    "ASP/1/V2. Einführung zu C.md",
+    "zzzAttachments/Ink/Writing/2025.10.20 - 3.36am.writing",
+    "zzzAttachments/Ink/Writing",
+    "zzzAttachments/Ink",
+    "Excalidraw/Drawing 2025-10-20 03.33.25.excalidraw.md",
+    "Attachments/Ink/Writing/2025.10.20 - 3.33am.writing",
+    "Attachments/Ink/Writing",
+    "Attachments/Ink/Drawing/2025.10.20 - 3.32am.drawing",
+    "Excalidraw/Drawing 2025-10-20 03.30.03.excalidraw.md",
+    "Untitled.canvas",
+    "Hello World.md",
+    "General/Klausuren.md",
     "ASP/1.md",
-    "ImGe",
-    "General",
-    "GDB",
-    "GBS",
-    "ASP/1",
-    "ASP",
-    "zzzAttachments",
     "W2526/ImGe/1. Games Humans Machines.md",
-    "W2526/ImGe",
     "W2526/General/Klausuren.md",
-    "W2526/General",
     "W2526/GDB/3. Das Relationale Modell.md",
     "W2526/GDB/1. Einführung.md",
     "W2526/GDB/0.md",
-    "W2526/GBS/0.md",
-    "W2526/ASP/1/V2. Einführung zu C.md",
-    "W2526/ASP/1/V1. Assembly Grundlagen 1.md",
-    "W2526/ASP/1/P.md",
-    "W2526/ASP/1.md",
-    "Untitled.canvas"
+    "W2526/GBS/0.md"
   ]
 }

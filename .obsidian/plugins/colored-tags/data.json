@@ -23,7 +23,8 @@
     "asp/importantTeilregister": 2,
     "asp/importantÜbersicht": 3,
     "gbs": 6,
-    "gbs/def": 1
+    "gbs/def": 1,
+    "gbs/important": 2
   },
   "_version": 3
 }
