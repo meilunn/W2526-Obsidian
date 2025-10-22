@@ -6,7 +6,6 @@
   "mousewheel-image-zoom",
   "execute-code",
   "quick-explorer",
-  "remember-cursor-position",
   "mathlive",
   "obsidian-latex-suite",
   "code-styler",
@@ -14,8 +13,6 @@
   "omnisearch",
   "obsidian-tasks-plugin",
   "cmdr",
-  "obsidian-excalidraw-plugin",
-  "ink",
   "colored-tags",
   "tag-wrangler"
 ]

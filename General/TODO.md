@@ -27,14 +27,15 @@ hide recurrence rule
 due in two days
 ```
 
-##### After tmr
+##### After 2 days
 ```tasks
 hide backlink
 hide postpone button
 hide recurrence rule
-due after tomorrow 
+due after two days 
 ```
 
+----
 ###### Tasks
 - [ ] TODO ASP Blatt 🔁 every week 📅 2025-10-27
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-20
@@ -44,3 +45,9 @@ due after tomorrow
 - [x] TODO GDB Blatt 📅 2025-10-21
 - [ ] TODO ASP Videos 📅 2025-10-24 🔁 every week 
 - [ ] TODO check GDB lösungen 📅 2025-10-24 🔁 every week 
+- [ ] TODO GDB Quiz 🔁 every week 📅 2025-10-29
+- [x] TODO GDB Quiz 🔁 every week 📅 2025-10-22
+- [ ] TODO Analysis blatt 📅 2025-10-22 
+- [ ] TODO GBS Notes 📅 2025-10-22 
+- [ ] TODO GDB Notes 📅 2025-10-28 🔁 every week 
+- [ ] 

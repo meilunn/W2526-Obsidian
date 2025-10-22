@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "foldHeading": false,
   "foldIndent": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "current"
 }
