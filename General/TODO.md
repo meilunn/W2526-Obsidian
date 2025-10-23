@@ -37,9 +37,9 @@ due after two days
 
 ----
 ###### Tasks
-- [ ] TODO ASP Blatt 🔁 every week 📅 2025-10-27
+- [ ] TODO ASP Blatt 🔁 every week 📅 2025-10-26
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-20
-- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-10-27
+- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-10-26
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-10-20
 - [ ] TODO GBS Artemis 🔁 every week 📅 2025-10-29 
 - [x] TODO GDB Blatt 📅 2025-10-21
@@ -48,7 +48,7 @@ due after two days
 - [ ] TODO GDB Quiz 🔁 every week 📅 2025-10-29
 - [x] TODO GDB Quiz 🔁 every week 📅 2025-10-22
 - [x] TODO Analysis blatt 📅 2025-10-22
-- [ ] TODO GBS Notes 🔁 every week 📅 2025-10-29
+- [ ] TODO GBS Notes 🔁 every week 📅 2025-10-26
 - [x] TODO GBS Notes 🔁 every week 📅 2025-10-22
 - [ ] TODO GDB Notes 📅 2025-10-28 🔁 every week 
 - [ ] TODO GDB Blatt 📅 2025-10-29 🔁 every week 
