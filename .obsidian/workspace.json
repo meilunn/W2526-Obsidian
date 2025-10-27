@@ -34,36 +34,12 @@
             }
           },
           {
-            "id": "59ddb903b88e9c25",
+            "id": "580d7c1e0eeb08f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/1/V1. Assembly Grundlagen 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 1"
-            }
-          },
-          {
-            "id": "449710872f90c0dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/2/V1. Assembly Grundlagen 2.md",
+                "file": "GBS/2. Prozess- und Prozessorverwaltung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,43 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 2"
-            }
-          },
-          {
-            "id": "547b72e3aff761e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ASP/2/Blatt 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Blatt 2"
-            }
-          },
-          {
-            "id": "467b69dc0263689a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/2/V3. C-Strings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V3. C-Strings"
+              "title": "2. Prozess- und Prozessorverwaltung"
             }
           }
         ]
@@ -174,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -290,14 +229,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a26f5eb489d3cf9",
+  "active": "15269f06ebd9f3d4",
   "lastOpenFiles": [
+    "gbs2526bash-go76suf/setup.sh",
+    "gbs2526bash-go76suf/script.sh",
+    "gbs2526bash-go76suf/project.tar.gz",
+    "gbs2526bash-go76suf",
+    "GBS/2. Prozess- und Prozessorverwaltung.md",
+    "GBS/1. Einführung.md",
+    "General/TODO.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/2/Blatt 2.pdf",
     "ASP/2/V2. Intel SDM.md",
     "ASP/2/V3. C-Strings.md",
     "ASP/2/V1. Assembly Grundlagen 2.md",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
-    "General/TODO.md",
     "ASP/1/Blatt 1.pdf",
     "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2/Blatt 2.xopp~",
@@ -306,7 +251,6 @@
     "ASP/2/Blatt 2.xopp",
     "ASP/2/Unconfirmed 345347.crdownload",
     "zzzAttachments/Pasted image 20251023175035.png",
-    "GBS/2. Prozess- und Prozessorverwaltung.md",
     "zzzAttachments/Pasted image 20251023172210.png",
     "zzzAttachments/Pasted image 20251023170649.png",
     "ImGe/2. Camera.md",
@@ -316,7 +260,6 @@
     "ImGe/1. Games Humans Machines.md",
     "zzzAttachments/Pasted image 20251023012321.png",
     "ASP/2",
-    "GBS/1. Einführung.md",
     "zzzAttachments/Pasted image 20251022182842.png",
     "zzzAttachments/Pasted image 20251022181650.png",
     "zzzAttachments/Pasted image 20251022171944.png",
@@ -325,13 +268,10 @@
     "GDB/0.md",
     "ASP/1/P.md",
     "Attachments",
-    "Attachments/ASP_Blatt_01.pdf",
     "Excalidraw/Drawing 2025-10-20 16.16.29.excalidraw.md",
-    "Excalidraw",
     "GBS/0.md",
     "lxhalle.in.tum.de.md",
     "ASP/0.md",
-    "zzzAttachments/Ink/Writing/2025.10.20 - 3.36am.writing",
     "Excalidraw/Drawing 2025-10-20 03.33.25.excalidraw.md",
     "Excalidraw/Drawing 2025-10-20 03.30.03.excalidraw.md",
     "Untitled.canvas",

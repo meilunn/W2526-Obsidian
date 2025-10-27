@@ -25,6 +25,7 @@ hide due date
 hide postpone button
 hide recurrence rule
 due in two days
+not done
 ```
 
 ##### After 2 days
@@ -48,7 +49,7 @@ not done
 - [x] TODO GDB Blatt 📅 2025-10-21
 - [ ] TODO ASP Videos 🔁 every week 📅 2025-10-31
 - [x] TODO ASP Videos 🔁 every week 📅 2025-10-24
-- [ ] TODO check GDB lösungen 📅 2025-10-24 🔁 every week 
+- [ ] TODO check GDB lösungen 14:00 📅 2025-10-24 🔁 every week 
 - [ ] TODO GDB Quiz 🔁 every week 📅 2025-10-29
 - [x] TODO GDB Quiz 🔁 every week 📅 2025-10-22
 - [x] TODO Analysis blatt 📅 2025-10-22
@@ -57,3 +58,4 @@ not done
 - [ ] TODO GDB Notes 📅 2025-10-28 🔁 every week 
 - [ ] TODO GDB Blatt 📅 2025-10-29 🔁 every week 
 - [ ] TODO Imge notes 📅 2025-10-30 🔁 every week 
+- [ ] TODO check Analysis Musterlösung 16:00 📅 2025-10-24 🔁 every week 
