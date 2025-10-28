@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/0.md",
+                "file": "General/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "TODO"
             }
           }
         ],
@@ -232,12 +232,12 @@
   },
   "active": "025b0660bd1cf1ef",
   "lastOpenFiles": [
+    "ASP/0.md",
     "ImGe/2. Camera.md",
     "ImGe/1. Games Humans Machines.md",
     "General/TODO.md",
     "General/Temp.md",
     "General/Klausuren.md",
-    "ASP/0.md",
     "ASP/1/V2. Einführung zu C.md",
     "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/1/Blatt 1.pdf",

@@ -53,3 +53,4 @@ not done
 - [ ] TODO GBS Notes 🔁 every week 📅 2025-10-26
 - [x] TODO GBS Notes 🔁 every week 📅 2025-10-22
 - [ ] TODO Imge notes 📅 2025-10-30 🔁 every week 
+- [ ] TODO Analysis E Test 📅 2025-11-05
