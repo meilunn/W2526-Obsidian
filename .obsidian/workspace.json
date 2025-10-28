@@ -32,23 +32,8 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          },
-          {
-            "id": "7d30ce3866b98c59",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/omnisearch/data.json",
-                "bFile": ".obsidian/plugins/omnisearch/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d30ce3866b98c59",
+  "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
     "General/TODO.md",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
