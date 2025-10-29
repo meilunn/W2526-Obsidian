@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          },
-          {
-            "id": "025b0660bd1cf1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,6 +183,30 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a3d2bf282e249882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
         ],
         "currentTab": 5
@@ -230,12 +229,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "025b0660bd1cf1ef",
+  "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
-    "ASP/0.md",
     "ImGe/2. Camera.md",
-    "ImGe/1. Games Humans Machines.md",
     "General/TODO.md",
+    "ImGe/1. Games Humans Machines.md",
+    "zzzAttachments/Pasted image 20251029154152.png",
+    "zzzAttachments/Pasted image 20251029152840.png",
+    "zzzAttachments/Pasted image 20251029152610.png",
+    "zzzAttachments/Pasted image 20251029152501.png",
+    "zzzAttachments/Pasted image 20251029152339.png",
+    "zzzAttachments/Pasted image 20251029151050.png",
+    "zzzAttachments/Pasted image 20251029150920.png",
+    "zzzAttachments/Pasted image 20251029150813.png",
+    "zzzAttachments/Pasted image 20251029134824.png",
+    "zzzAttachments/Pasted image 20251029134014.png",
+    "2025-10-29.md",
+    "ASP/0.md",
     "General/Temp.md",
     "General/Klausuren.md",
     "ASP/1/V2. Einführung zu C.md",
@@ -243,11 +253,6 @@
     "ASP/1/Blatt 1.pdf",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
     "GBS/1. Einführung.md",
-    "zzzAttachments/Pasted image 20251023204631.png",
-    "zzzAttachments/Pasted image 20251023204614.png",
-    "zzzAttachments/Pasted image 20251023175035.png",
-    "zzzAttachments/Pasted image 20251023172210.png",
-    "zzzAttachments/Pasted image 20251023170649.png",
     "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2/V3. C-Strings.md",
     "ASP/2/V2. Intel SDM.md",
@@ -256,12 +261,7 @@
     "ASP/2/Blatt 2.pdf",
     "GBS/0.md",
     "ASP/2/V1. Assembly Grundlagen 2.md",
-    "zzzAttachments/Pasted image 20251023012321.png",
     "ASP/2",
-    "zzzAttachments/Pasted image 20251022182842.png",
-    "zzzAttachments/Pasted image 20251022181650.png",
-    "zzzAttachments/Pasted image 20251022171944.png",
-    "zzzAttachments/Pasted image 20251022170933.png",
     "Untitled.md",
     "ASP/1/P.md",
     "Hello World.md",
@@ -276,8 +276,6 @@
     "ASP/1",
     "ASP",
     "W2526/ImGe/1. Games Humans Machines.md",
-    "W2526/General/Klausuren.md",
-    "W2526/GDB/3. Das Relationale Modell.md",
     "Untitled.canvas"
   ]
 }
