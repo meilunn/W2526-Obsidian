@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e13a919eae1267bd",
+            "id": "9ac0f6614ba3ea26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/3/V1. Stack.md",
+                "file": "ImGe/3. Travel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V1. Stack"
+              "title": "3. Travel"
             }
           },
           {
-            "id": "ea16d0f7f53ce30b",
+            "id": "14ccc6755787f155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/3/V3. System V ABI.md",
+                "file": "ImGe/2. Camera.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,35 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V3. System V ABI"
-            }
-          },
-          {
-            "id": "563f3354e5d45800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/1/V1. Assembly Grundlagen 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 1"
+              "title": "2. Camera"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP/3/V2. Zusammengesetzte Datentypen.md",
+                "file": "ImGe/3. Travel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of V2. Zusammengesetzte Datentypen"
+              "title": "Outline of 3. Travel"
             }
           },
           {
@@ -336,7 +312,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/1/V1. Assembly Grundlagen 1.md",
+                "file": "ASP/1/V2. Einführung zu C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -351,7 +327,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 1"
+              "title": "V2. Einführung zu C"
             }
           },
           {
@@ -449,6 +425,78 @@
               "icon": "lucide-file",
               "title": "V2. Zusammengesetzte Datentypen"
             }
+          },
+          {
+            "id": "a59de036ab5c8244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "a1f01da19dc5353a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ImGe/3. Travel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3. Travel"
+            }
+          },
+          {
+            "id": "05af5d74fcc85c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ImGe/2. Camera.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Camera"
+            }
           }
         ],
         "currentTab": 5
@@ -473,33 +521,34 @@
   },
   "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
-    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "zzzAttachments/Pasted image 20251105115603.png",
+    "ImGe/2. Camera.md",
+    "ImGe/3. Travel.md",
+    "zzzAttachments/Pasted image 20251105111500.png",
+    "zzzAttachments/Pasted image 20251105111404.png",
+    "zzzAttachments/Pasted image 20251105105526.png",
+    "zzzAttachments/Pasted image 20251105105003.png",
+    "zzzAttachments/Pasted image 20251105103750.png",
+    "zzzAttachments/Pasted image 20251105103626.png",
+    "General/TODO.md",
     "ASP/3/V3. System V ABI.md",
-    "ASP/3/V2. Zusammengesetzte Datentypen.md",
-    "ASP/2/V1. Assembly Grundlagen 2.md",
     "ASP/3/V1. Stack.md",
+    "ASP/3/V2. Zusammengesetzte Datentypen.md",
+    "ASP/1/V2. Einführung zu C.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "ASP/2/V1. Assembly Grundlagen 2.md",
     "zzzAttachments/Pasted image 20251102162318.png",
     "zzzAttachments/Pasted image 20251102155535.png",
     "zzzAttachments/Pasted image 20251102154356.png",
-    "General/TODO.md",
     "zzzAttachments/Pasted image 20251030165739.png",
-    "zzzAttachments/Pasted image 20251030163638.png",
-    "ImGe/2. Camera.md",
-    "ImGe/3. Travel.md",
     "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2/V2. Intel SDM.md",
     "ASP/0.md",
     "ASP/3",
     "ImGe/1. Games Humans Machines.md",
-    "zzzAttachments/Pasted image 20251029154152.png",
-    "zzzAttachments/Pasted image 20251029152840.png",
-    "zzzAttachments/Pasted image 20251029152610.png",
-    "zzzAttachments/Pasted image 20251029152501.png",
-    "zzzAttachments/Pasted image 20251029152339.png",
     "2025-10-29.md",
     "General/Temp.md",
     "General/Klausuren.md",
-    "ASP/1/V2. Einführung zu C.md",
     "ASP/1/Blatt 1.pdf",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
     "GBS/1. Einführung.md",
