@@ -81,8 +81,7 @@
               "title": "2. Camera"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ImGe/3. Travel.md",
+                "file": "General/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Travel"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -519,18 +518,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a26f5eb489d3cf9",
+  "active": "b6cdb92d423f5462",
   "lastOpenFiles": [
-    "zzzAttachments/Pasted image 20251105115603.png",
     "ImGe/2. Camera.md",
     "ImGe/3. Travel.md",
+    "General/TODO.md",
+    "zzzAttachments/Pasted image 20251105115603.png",
     "zzzAttachments/Pasted image 20251105111500.png",
     "zzzAttachments/Pasted image 20251105111404.png",
     "zzzAttachments/Pasted image 20251105105526.png",
     "zzzAttachments/Pasted image 20251105105003.png",
     "zzzAttachments/Pasted image 20251105103750.png",
     "zzzAttachments/Pasted image 20251105103626.png",
-    "General/TODO.md",
     "ASP/3/V3. System V ABI.md",
     "ASP/3/V1. Stack.md",
     "ASP/3/V2. Zusammengesetzte Datentypen.md",
@@ -540,7 +539,6 @@
     "zzzAttachments/Pasted image 20251102162318.png",
     "zzzAttachments/Pasted image 20251102155535.png",
     "zzzAttachments/Pasted image 20251102154356.png",
-    "zzzAttachments/Pasted image 20251030165739.png",
     "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2/V2. Intel SDM.md",
     "ASP/0.md",

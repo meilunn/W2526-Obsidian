@@ -43,7 +43,8 @@ not done
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-11-02
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-26
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-20
-- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-11-09
+- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-11-16
+- [x] TODO Analysis Blatt 🔁 every week 📅 2025-11-09
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-11-02
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-10-26
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-10-20
