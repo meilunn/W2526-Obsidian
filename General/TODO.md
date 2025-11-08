@@ -39,7 +39,8 @@ not done
 
 ----
 ###### Tasks
-- [ ] TODO ASP Blatt 🔁 every week 📅 2025-11-09
+- [ ] TODO ASP Blatt 🔁 every week 📅 2025-11-16
+- [x] TODO ASP Blatt 🔁 every week 📅 2025-11-09
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-11-02
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-26
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-10-20
@@ -50,7 +51,9 @@ not done
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-10-20
 - [ ] TODO GBS Artemis 🔁 every 14 days 📅 2025-11-12
 - [x] TODO GBS Artemis 🔁 every week 📅 2025-10-29
-- [ ] TODO ASP Videos 🔁 every week 📅 2025-10-31
+- [ ] TODO ASP Videos 🔁 every week 📅 2025-11-14
+- [x] TODO ASP Videos 🔁 every week 📅 2025-11-07
+- [x] TODO ASP Videos 🔁 every week 📅 2025-10-31
 - [x] TODO ASP Videos 🔁 every week 📅 2025-10-24
 - [x] TODO Analysis blatt 📅 2025-10-22
 - [ ] TODO GBS Notes 🔁 every week 📅 2025-10-26
