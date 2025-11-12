@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "9ac0f6614ba3ea26",
+            "id": "218b0259dd98653d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/3/V3. System V ABI.md",
+                "file": "ASP/2/V4. Pointerarithmetik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V3. System V ABI"
+              "title": "V4. Pointerarithmetik"
             }
           },
           {
-            "id": "14ccc6755787f155",
+            "id": "89b5f3c603c25766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP/1/V1. Assembly Grundlagen 1.md",
+                "file": "ASP/5/V2. Kompilierte Programme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,55 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 1"
-            }
-          },
-          {
-            "id": "81268dd195a2be0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/2/V1. Assembly Grundlagen 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 2"
-            }
-          },
-          {
-            "id": "ce16a6677224a33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/4/V1. Effizientes Debugging.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Effizientes Debugging"
+              "title": "V2. Kompilierte Programme"
             }
           }
         ]
@@ -186,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -591,6 +544,78 @@
               "icon": "lucide-file",
               "title": "V1. Effizientes Debugging"
             }
+          },
+          {
+            "id": "e3d069daee3f3ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "5edaffefb5796e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/2/V4. Pointerarithmetik.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V4. Pointerarithmetik"
+            }
+          },
+          {
+            "id": "2b355b7791f2fe07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/5/V2. Kompilierte Programme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V2. Kompilierte Programme"
+            }
           }
         ],
         "currentTab": 5
@@ -615,9 +640,16 @@
   },
   "active": "b6cdb92d423f5462",
   "lastOpenFiles": [
-    "ASP/4/V1. Effizientes Debugging.md",
+    "ASP/2/V4. Pointerarithmetik.md",
+    "ASP/1/V2. Einführung zu C.md",
+    "ASP/5/V1. Sichere Programmierung.md",
     "General/TODO.md",
+    "ASP/5/V2. Kompilierte Programme.md",
+    "zzzAttachments/Pasted image 20251112173742.png",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
+    "ASP/5",
     "ASP/3/V3. System V ABI.md",
+    "ASP/4/V1. Effizientes Debugging.md",
     "zzzAttachments/Pasted image 20251107222119.png",
     "ImGe/8. Game Prototyping.md",
     "ImGe/7. Travel.md",
@@ -631,9 +663,7 @@
     "ASP/3/V4. Speicherbereiche.md",
     "ImGe/3. Travel.md",
     "ASP/2/V1. Assembly Grundlagen 2.md",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/2/V2. Intel SDM.md",
-    "ASP/2/V4. Pointerarithmetik.md",
     "ASP/3/V1. Stack.md",
     "ImGe/2. Camera.md",
     "ImGe/4. Game Prototyping.md",
@@ -645,13 +675,9 @@
     "zzzAttachments/Pasted image 20251105103750.png",
     "zzzAttachments/Pasted image 20251105103626.png",
     "ASP/3/V2. Zusammengesetzte Datentypen.md",
-    "ASP/1/V2. Einführung zu C.md",
     "zzzAttachments/Pasted image 20251102162318.png",
-    "zzzAttachments/Pasted image 20251102155535.png",
     "ASP/0.md",
     "ASP/3",
-    "ImGe/1. Games Humans Machines.md",
-    "2025-10-29.md",
     "ASP/1/Blatt 1.pdf",
     "ASP/2/Blatt 2.xopp",
     "ASP/2/Blatt 2.pdf",
@@ -659,7 +685,6 @@
     "ImGe",
     "General",
     "GDB",
-    "GBS",
     "Untitled.canvas"
   ]
 }
