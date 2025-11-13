@@ -2,7 +2,7 @@
   "spellcheck": false,
   "attachmentFolderPath": "zzzAttachments",
   "alwaysUpdateLinks": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "foldIndent": false,
   "showLineNumber": false,
   "newFileLocation": "current"
