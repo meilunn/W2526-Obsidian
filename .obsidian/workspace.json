@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "649996ae08116e64",
+        "id": "5e76f265bc547e69",
         "type": "tabs",
         "children": [
           {
-            "id": "b6cdb92d423f5462",
+            "id": "01169ef30a60943d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e56e49b148425d63",
+            "id": "6a1abc7c5b616787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImGe/Wayfinding.md",
+                "file": "ASP/6/V1. Floating Point Zahlen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wayfinding"
+              "title": "V1. Floating Point Zahlen"
+            }
+          },
+          {
+            "id": "13659607036004de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/6/V2. Einführung SSE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V2. Einführung SSE"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#def/gdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
+    "width": 262.5,
     "collapsed": true
   },
   "right": {
@@ -132,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,11 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3. Das Relationale Modell"
             }
           },
           {
@@ -179,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/TODO.md",
+                "file": "ASP/6/V2. Einführung SSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of V2. Einführung SSE"
             }
           },
           {
@@ -194,7 +218,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "ASP/3/V2. Zusammengesetzte Datentypen.md"
+                "file": "GDB/3. Das Relationale Modell.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -209,390 +233,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fa3ef7a65c464b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "566cbaa1461c5e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V1. Stack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Stack"
-            }
-          },
-          {
-            "id": "b6a60d39a7acbdbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V2. Zusammengesetzte Datentypen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V2. Zusammengesetzte Datentypen"
-            }
-          },
-          {
-            "id": "d662ed783387332b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/1/V2. Einführung zu C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V2. Einführung zu C"
-            }
-          },
-          {
-            "id": "3de23c0fb6564d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "88e91f26867e2025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V1. Stack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Stack"
-            }
-          },
-          {
-            "id": "4a21d379fd0a200b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V3. System V ABI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V3. System V ABI"
-            }
-          },
-          {
-            "id": "10ccfa99a9246aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V2. Zusammengesetzte Datentypen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V2. Zusammengesetzte Datentypen"
-            }
-          },
-          {
-            "id": "a59de036ab5c8244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "a1f01da19dc5353a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V3. System V ABI.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V3. System V ABI"
-            }
-          },
-          {
-            "id": "05af5d74fcc85c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/1/V1. Assembly Grundlagen 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 1"
-            }
-          },
-          {
-            "id": "e9340bac311eabb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/2/V1. Assembly Grundlagen 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Assembly Grundlagen 2"
-            }
-          },
-          {
-            "id": "bc2284ad47cb6d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/4/V1. Effizientes Debugging.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Effizientes Debugging"
-            }
-          },
-          {
-            "id": "e3d069daee3f3ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "4a4957632e1a1ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ImGe/Phase 1/8. Game Prototyping.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "8. Game Prototyping"
-            }
-          },
-          {
-            "id": "bb09a098e444fe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ImGe/Wayfinding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wayfinding"
-            }
           }
         ],
         "currentTab": 5
@@ -606,62 +246,63 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e56e49b148425d63",
+  "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
-    "ImGe/Phase 1/8. Game Prototyping.md",
-    "ASP/6/Untitled.base",
-    "ASP/6/P.md",
-    "ASP/6",
-    "zzzAttachments/Pasted image 20251120111709.png",
-    "ImGe/Phase 1/7. Travel.md",
-    "General/TODO.md",
-    "ImGe/Phase 1/OKU Case Study.md",
-    "ASP/3/V3. System V ABI.md",
-    "ASP/2/V1. Assembly Grundlagen 2.md",
-    "ASP/2/V4. Pointerarithmetik.md",
+    "zzzAttachments/Pasted image 20251122163908.png",
+    "zzzAttachments/Pasted image 20251122162733.png",
+    "ASP/6/V1. Floating Point Zahlen.md",
+    "ASP/6/V2. Einführung SSE.md",
+    "zzzAttachments/Pasted image 20251122152126.png",
+    "zzzAttachments/Pasted image 20251122152111.png",
     "ASP/5/V2. Kompilierte Programme.md",
-    "ASP/2/V2. Intel SDM.md",
-    "ASP/2/V3. C-Strings.md",
-    "zzzAttachments/Pasted image 20251113140912.png",
-    "ASP/0.md",
-    "ImGe/Wayfinding.md",
+    "zzzAttachments/Pasted image 20251122144045.png",
+    "zzzAttachments/Pasted image 20251122132532.png",
+    "zzzAttachments/Pasted image 20251122132516.png",
+    "zzzAttachments/Pasted image 20251122132435.png",
+    "zzzAttachments/Pasted image 20251122132242.png",
+    "zzzAttachments/Pasted image 20251122130501.png",
+    "zzzAttachments/Pasted image 20251122125849.png",
+    "ASP/6/P.md",
+    "ImGe/Phase 1/8. Game Prototyping.md",
+    "ASP/6",
+    "General/TODO.md",
+    "General/Klausuren.md",
+    "ImGe/Phase 1/OKU Case Study.md",
     "ImGe/Phase 1/2. Visual Displays.md",
-    "ImGe/Phase 1/1. Games Humans Machines.md",
-    "ImGe/Phase 1/4. Camera.md",
-    "ImGe/Phase 1/5. Game View.md",
     "ImGe/Phase 1/3. Human vision & Depth cues.md",
-    "ImGe/Phase 1",
+    "ImGe/Phase 1/5. Game View.md",
+    "ImGe/Phase 1/7. Travel.md",
     "ImGe/Phase 1/6. Relationship - Travel and Camera Control.md",
-    "ASP/1/V2. Einführung zu C.md",
+    "ImGe/Phase 1/4. Camera.md",
+    "ImGe/Phase 1/1. Games Humans Machines.md",
+    "ImGe/Phase 1",
+    "GBS/2. Prozess- und Prozessorverwaltung.md",
     "ASP/5/V1. Sichere Programmierung.md",
-    "zzzAttachments/Pasted image 20251112173742.png",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/5",
-    "ASP/4/V1. Effizientes Debugging.md",
-    "zzzAttachments/Pasted image 20251107222119.png",
     "ASP/4/V2. Debugging mit GDB.md",
+    "ASP/4/V1. Effizientes Debugging.md",
     "ASP/4",
+    "ASP/3/V3. System V ABI.md",
     "ASP/3/V4. Speicherbereiche.md",
-    "zzzAttachments/Pasted image 20251105115603.png",
-    "zzzAttachments/Pasted image 20251105111500.png",
-    "zzzAttachments/Pasted image 20251105111404.png",
-    "zzzAttachments/Pasted image 20251105105526.png",
-    "zzzAttachments/Pasted image 20251105105003.png",
-    "zzzAttachments/Pasted image 20251105103750.png",
+    "ASP/3/V2. Zusammengesetzte Datentypen.md",
+    "ASP/3/V1. Stack.md",
     "ASP/3",
-    "ASP/1/Blatt 1.pdf",
-    "ASP/2/Blatt 2.xopp",
-    "ASP/2/Blatt 2.pdf",
+    "ASP/2/V3. C-Strings.md",
+    "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2",
+    "Attachments",
+    "Attachments/ASP_Blatt_01.pdf",
+    "ASP/1/Blatt 1.pdf",
+    "Excalidraw",
     "Untitled.canvas"
   ]
 }
