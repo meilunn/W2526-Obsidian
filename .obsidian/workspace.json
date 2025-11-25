@@ -81,8 +81,7 @@
               "title": "V2. Einführung SSE"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,12 +254,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a26f5eb489d3cf9",
+  "active": "01169ef30a60943d",
   "lastOpenFiles": [
+    "ASP/6/V2. Einführung SSE.md",
+    "ASP/6/V1. Floating Point Zahlen.md",
+    "General/TODO.md",
     "zzzAttachments/Pasted image 20251122163908.png",
     "zzzAttachments/Pasted image 20251122162733.png",
-    "ASP/6/V1. Floating Point Zahlen.md",
-    "ASP/6/V2. Einführung SSE.md",
     "zzzAttachments/Pasted image 20251122152126.png",
     "zzzAttachments/Pasted image 20251122152111.png",
     "ASP/5/V2. Kompilierte Programme.md",
@@ -270,11 +270,9 @@
     "zzzAttachments/Pasted image 20251122132435.png",
     "zzzAttachments/Pasted image 20251122132242.png",
     "zzzAttachments/Pasted image 20251122130501.png",
-    "zzzAttachments/Pasted image 20251122125849.png",
     "ASP/6/P.md",
     "ImGe/Phase 1/8. Game Prototyping.md",
     "ASP/6",
-    "General/TODO.md",
     "General/Klausuren.md",
     "ImGe/Phase 1/OKU Case Study.md",
     "ImGe/Phase 1/2. Visual Displays.md",
