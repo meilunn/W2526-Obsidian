@@ -34,54 +34,22 @@
             }
           },
           {
-            "id": "6a1abc7c5b616787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/6/V1. Floating Point Zahlen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Floating Point Zahlen"
-            }
-          },
-          {
             "id": "13659607036004de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ASP/6/V2. Einführung SSE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "ASP/6/V3. Benchmarking.md",
+                "bFile": "ASP/6/V3. Benchmarking.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "V2. Einführung SSE"
+              "icon": "diff",
+              "title": "Diff: V3. Benchmarking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -254,9 +221,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01169ef30a60943d",
+  "active": "8a26f5eb489d3cf9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "ASP/6/V2. Einführung SSE.md",
+    "ASP/6/V3. Benchmarking.md",
     "ASP/6/V1. Floating Point Zahlen.md",
     "General/TODO.md",
     "zzzAttachments/Pasted image 20251122163908.png",
@@ -295,7 +264,6 @@
     "ASP/3/V1. Stack.md",
     "ASP/3",
     "ASP/2/V3. C-Strings.md",
-    "ASP/2/V4. Pointerarithmetik.md",
     "ASP/2",
     "Attachments",
     "Attachments/ASP_Blatt_01.pdf",
