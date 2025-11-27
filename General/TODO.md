@@ -46,7 +46,8 @@ not done
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-11-23
 - [ ] TODO GBS Artemis 🔁 every 14 days 📅 2025-12-10
 - [x] TODO GBS Artemis 🔁 every 14 days 📅 2025-11-26
-- [ ] TODO ASP Videos 🔁 every week 📅 2025-11-28
+- [ ] TODO ASP Videos 🔁 every week 📅 2025-12-05
+- [x] TODO ASP Videos 🔁 every week 📅 2025-11-28
 - [x] TODO ASP Videos 🔁 every week 📅 2025-11-21
 - [x] TODO ASP Videos 🔁 every week 📅 2025-11-14
 - [ ] TODO GBS Notes 🔁 every week 📅 2025-10-26
