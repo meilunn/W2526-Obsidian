@@ -1,4 +1,5 @@
-Goal: Help player establish spatial knowledge so that they can use primed target-based search
+> Cognitive aspect of navigation
+> Goal: Help player establish spatial knowledge so that they can use primed target-based search
 
 # Wayfinding Techniques
 - wayfinding techniques support player in advancing from landmark knowledge to survey knowledge
@@ -96,3 +97,6 @@ Maps
 Compass bar
 - doesn't show elevation
 	- e.g. objective is inside mountain
+
+> Landmarks
+> e.g. Elden Ring: each landmark has a role in the story/lore -> player is actually interested in the location

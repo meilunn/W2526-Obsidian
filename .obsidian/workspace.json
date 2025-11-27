@@ -34,22 +34,55 @@
             }
           },
           {
-            "id": "13659607036004de",
+            "id": "13c4e754f6da027e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ASP/6/V3. Benchmarking.md",
-                "bFile": "ASP/6/V3. Benchmarking.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "ASP/6/V3. Benchmarking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: V3. Benchmarking"
+              "icon": "lucide-file",
+              "title": "V3. Benchmarking"
+            }
+          },
+          {
+            "id": "bba2f7070f479d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ImGe/Wayfinding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wayfinding"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,13 +254,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a26f5eb489d3cf9",
+  "active": "bba2f7070f479d7d",
   "lastOpenFiles": [
+    "ASP/7/V1. SIMD mit SSE.md",
+    "General/TODO.md",
+    "ASP/7",
+    "ASP/6/V3. Benchmarking.md",
+    "zzzAttachments/Pasted image 20251126161058.png",
     "conflict-files-obsidian-git.md",
     "ASP/6/V2. Einführung SSE.md",
-    "ASP/6/V3. Benchmarking.md",
     "ASP/6/V1. Floating Point Zahlen.md",
-    "General/TODO.md",
     "zzzAttachments/Pasted image 20251122163908.png",
     "zzzAttachments/Pasted image 20251122162733.png",
     "zzzAttachments/Pasted image 20251122152126.png",
@@ -238,7 +274,6 @@
     "zzzAttachments/Pasted image 20251122132516.png",
     "zzzAttachments/Pasted image 20251122132435.png",
     "zzzAttachments/Pasted image 20251122132242.png",
-    "zzzAttachments/Pasted image 20251122130501.png",
     "ASP/6/P.md",
     "ImGe/Phase 1/8. Game Prototyping.md",
     "ASP/6",
@@ -263,12 +298,10 @@
     "ASP/3/V2. Zusammengesetzte Datentypen.md",
     "ASP/3/V1. Stack.md",
     "ASP/3",
-    "ASP/2/V3. C-Strings.md",
     "ASP/2",
     "Attachments",
     "Attachments/ASP_Blatt_01.pdf",
     "ASP/1/Blatt 1.pdf",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
