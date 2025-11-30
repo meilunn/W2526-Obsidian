@@ -39,10 +39,12 @@ not done
 
 ----
 ###### Tasks
-- [ ] TODO ASP Blatt 🔁 every week 📅 2025-11-30
+- [ ] TODO ASP Blatt 🔁 every week 📅 2025-12-07
+- [x] TODO ASP Blatt 🔁 every week 📅 2025-11-30
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-11-23
 - [x] TODO ASP Blatt 🔁 every week 📅 2025-11-16
-- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-11-30
+- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-12-07
+- [x] TODO Analysis Blatt 🔁 every week 📅 2025-11-30
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-11-23
 - [ ] TODO GBS Artemis 🔁 every 14 days 📅 2025-12-10
 - [x] TODO GBS Artemis 🔁 every 14 days 📅 2025-11-26
