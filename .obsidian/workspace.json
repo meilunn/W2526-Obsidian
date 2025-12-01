@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e76f265bc547e69",
+        "id": "649996ae08116e64",
         "type": "tabs",
         "children": [
           {
-            "id": "01169ef30a60943d",
+            "id": "b6cdb92d423f5462",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,99 +34,17 @@
             }
           },
           {
-            "id": "13c4e754f6da027e",
+            "id": "2b1276b7149129ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ASP/6/V2. Einführung SSE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "V2. Einführung SSE"
-            }
-          },
-          {
-            "id": "803a41204a291535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/7/V1. SIMD mit SSE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. SIMD mit SSE"
-            }
-          },
-          {
-            "id": "20723e7e360a7e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/7/V2. SIMD mit C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V2. SIMD mit C"
-            }
-          },
-          {
-            "id": "ac6ddf65a08c3c03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/7/V3. Profiling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V3. Profiling"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -161,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#def/gdb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -203,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -221,12 +140,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Das Relationale Modell"
+              "title": "Outgoing links"
             }
           },
           {
@@ -236,7 +154,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -250,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP/6/V2. Einführung SSE.md",
+                "file": "General/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of V2. Einführung SSE"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -265,7 +183,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "GDB/3. Das Relationale Modell.md"
+                "file": "General/TODO.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -280,13 +198,157 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "118082a3a52776d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "52cbde6d84eecffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/3/V4. Speicherbereiche.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V4. Speicherbereiche"
+            }
+          },
+          {
+            "id": "5dd736c15ccf8d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/4/V1. Effizientes Debugging.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V1. Effizientes Debugging"
+            }
+          },
+          {
+            "id": "2195944fbe729a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/4/V2. Debugging mit GDB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V2. Debugging mit GDB"
+            }
+          },
+          {
+            "id": "aa6afcedd8e24598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "6c9c94ce01ddbd0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/7/V3. Profiling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V3. Profiling"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,59 +358,59 @@
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01169ef30a60943d",
+  "active": "b6cdb92d423f5462",
   "lastOpenFiles": [
     "ASP/7/V3. Profiling.md",
+    "General/TODO.md",
     "zzzAttachments/Pasted image 20251127212553.png",
     "zzzAttachments/Pasted image 20251127210753.png",
-    "zzzAttachments/Pasted image 20251127210233.png",
-    "ASP/7/V2. SIMD mit C.md",
-    "ASP/6/V2. Einführung SSE.md",
-    "ASP/7/V1. SIMD mit SSE.md",
-    "ImGe/11. Visual Language.md",
-    "zzzAttachments/Pasted image 20251127162624.png",
     "ASP/6/V3. Benchmarking.md",
-    "General/TODO.md",
-    "ImGe/10. Wayfinding.md",
-    "ImGe/9. OKU Case Study.md",
-    "ASP/7/P.md",
-    "ASP/7",
+    "zzzAttachments/Pasted image 20251127210233.png",
+    "ASP/3/V4. Speicherbereiche.md",
+    "ASP/4/V1. Effizientes Debugging.md",
+    "ASP/4/V2. Debugging mit GDB.md",
+    "zzzAttachments/Pasted image 20251127162624.png",
     "zzzAttachments/Pasted image 20251126161058.png",
-    "conflict-files-obsidian-git.md",
-    "ASP/6/V1. Floating Point Zahlen.md",
     "zzzAttachments/Pasted image 20251122163908.png",
     "zzzAttachments/Pasted image 20251122162733.png",
     "zzzAttachments/Pasted image 20251122152126.png",
     "zzzAttachments/Pasted image 20251122152111.png",
-    "ASP/5/V2. Kompilierte Programme.md",
     "zzzAttachments/Pasted image 20251122144045.png",
-    "ASP/6/P.md",
-    "ImGe/8. Game Prototyping.md",
-    "ASP/6",
-    "General/Klausuren.md",
-    "ImGe/Phase 1/2. Visual Displays.md",
-    "ImGe/Phase 1/3. Human vision & Depth cues.md",
-    "ImGe/Phase 1/5. Game View.md",
     "ImGe/Phase 1/7. Travel.md",
     "ImGe/Phase 1/6. Relationship - Travel and Camera Control.md",
+    "ImGe/Phase 1/5. Game View.md",
     "ImGe/Phase 1/4. Camera.md",
+    "ImGe/Phase 1/3. Human vision & Depth cues.md",
+    "ImGe/Phase 1/2. Visual Displays.md",
     "ImGe/Phase 1/1. Games Humans Machines.md",
     "ImGe/Phase 1",
-    "GBS/2. Prozess- und Prozessorverwaltung.md",
+    "ImGe/9. OKU Case Study.md",
+    "ImGe/11. Visual Language.md",
+    "ImGe/10. Wayfinding.md",
+    "ASP/7/V2. SIMD mit C.md",
+    "ASP/7/V1. SIMD mit SSE.md",
+    "ASP/7/P.md",
+    "ASP/7",
+    "ASP/6/V2. Einführung SSE.md",
+    "ASP/6/V1. Floating Point Zahlen.md",
+    "ASP/6/P.md",
+    "ASP/6",
+    "ASP/5/V2. Kompilierte Programme.md",
     "ASP/5/V1. Sichere Programmierung.md",
     "ASP/5",
+    "ASP/3/V3. System V ABI.md",
     "ASP/4",
+    "ImGe/Camera & Visuals",
     "ASP/3",
+    "ASP/2/Blatt 2.xopp",
+    "ASP/2/Blatt 2.pdf",
     "ASP/2",
-    "Attachments",
-    "Attachments/ASP_Blatt_01.pdf",
-    "ASP/1/Blatt 1.pdf",
     "Untitled.canvas"
   ]
 }
