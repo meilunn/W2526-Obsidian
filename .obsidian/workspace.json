@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "749529dd707befaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP/Projekt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Projekt"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -206,11 +230,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01169ef30a60943d",
+  "active": "749529dd707befaa",
   "lastOpenFiles": [
+    "ASP/0.md",
+    "ASP/Projekt.md",
+    "General/TODO.md",
     "ASP/7/V1. SIMD mit SSE.md",
     "ASP/6/V2. Einführung SSE.md",
-    "General/TODO.md",
     "ASP/7/V3. Profiling.md",
     "zzzAttachments/Pasted image 20251127212553.png",
     "zzzAttachments/Pasted image 20251127210753.png",
@@ -245,7 +271,6 @@
     "ImGe/Phase 1/1. Games Humans Machines.md",
     "ImGe/Phase 1",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
-    "ASP/5/V1. Sichere Programmierung.md",
     "ASP/5",
     "ASP/4",
     "ASP/3",
