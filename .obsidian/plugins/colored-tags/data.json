@@ -10,22 +10,15 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "def": 1,
-    "def/gbs": 1,
-    "excalidraw": 2,
-    "important": 3,
-    "important/asp": 1,
-    "def/gdb": 2,
-    "gdb": 4,
-    "gdb/def": 1,
     "asp": 5,
-    "asp/important": 1,
-    "asp/importantTeilregister": 2,
-    "asp/importantÜbersicht": 3,
     "gbs": 6,
+    "gdb": 4,
+    "asp/important": 1,
     "gbs/def": 1,
     "gbs/important": 2,
+    "gdb/def": 1,
     "gdb/important": 2
   },
-  "_version": 3
+  "tagColors": {},
+  "_version": 4
 }
