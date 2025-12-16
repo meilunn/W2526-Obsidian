@@ -39,15 +39,20 @@ not done
 
 ----
 ###### Tasks
-- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-12-14
+- [ ] TODO Analysis Blatt 🔁 every week 📅 2025-12-21
+- [x] TODO Analysis Blatt 🔁 every week 📅 2025-12-14
 - [x] TODO Analysis Blatt 🔁 every week 📅 2025-12-07
 - [ ] TODO GBS Artemis 🔁 every 14 days 📅 2026-01-08
 - [x] TODO ASP Videos 🔁 every week 📅 2025-12-05
 - [ ] TODO GBS Notes 🔁 every week 📅 2025-10-26
 - [ ] TODO Imge notes 🔁 every week 📅 2025-11-06
 - [x] TODO Analysis E Test 📅 2025-12-03
-- [ ] TODO Analysis Notes Tue 🔁 every week on Tuesday 📅 2025-12-16
+- [ ] TODO Analysis Notes Tue 🔁 every week on Tuesday 📅 2025-12-23
+- [x] TODO Analysis Notes Tue 🔁 every week on Tuesday 📅 2025-12-16
 - [x] TODO Analysis Notes Tue 🔁 every week on Tuesday 📅 2025-12-09
 - [x] TODO Analysis Notes Tue 🔁 every week on Tuesday 📅 2025-12-02
-- [ ] TODO Analysis Notes Thu 🔁 every week on Thursday 📅 2025-12-11
+- [ ] TODO Analysis Notes Thu 🔁 every week on Thursday 📅 2025-12-18
+- [x] TODO Analysis Notes Thu 🔁 every week on Thursday 📅 2025-12-11
 - [x] TODO Analysis Notes Thu 🔁 every week on Thursday 📅 2025-12-04
+- [ ] TODO ASP Projekt 📅 2026-02-01
+- [ ] 
