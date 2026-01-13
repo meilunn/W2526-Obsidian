@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImGe/Accessibility.md",
+                "file": "General/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Accessibility"
+              "title": "TODO"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "Universal Interaction"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,13 +278,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01169ef30a60943d",
+  "active": "e95a9f50b40b5381",
   "lastOpenFiles": [
-    "ImGe/Universal Interaction.md",
     "ImGe/Accessibility.md",
+    "GBS/2. Prozess- und Prozessorverwaltung.md",
+    "General/TODO.md",
+    "ImGe/Universal Interaction.md",
     "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/8/V1. Weitere SIMD Konzepte.md",
-    "GBS/2. Prozess- und Prozessorverwaltung.md",
     "zzzAttachments/Pasted image 20251219161235.png",
     "zzzAttachments/Pasted image 20251219160838.png",
     "GBS/1. Einführung.md",
@@ -295,7 +297,6 @@
     "zzzAttachments/Pasted image 20251219121940.png",
     "zzzAttachments/Pasted image 20251219121318.png",
     "zzzAttachments/Pasted image 20251219121158.png",
-    "General/TODO.md",
     "ASP/7/V1. SIMD mit SSE.md",
     "ASP/7/V2. SIMD mit C.md",
     "ASP/3/V3. System V ABI.md",
