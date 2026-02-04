@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "649996ae08116e64",
+        "id": "170ee1a4ae388e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "287f1da8a38867bc",
+            "id": "29d7441798cad0bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "GBS/2. Prozess- und Prozessorverwaltung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "GBS/2. Prozess- und Prozessorverwaltung.md",
+                "bFile": "GBS/2. Prozess- und Prozessorverwaltung.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2. Prozess- und Prozessorverwaltung"
+              "icon": "diff",
+              "title": "Diff: 2. Prozess- und Prozessorverwaltung"
             }
           }
         ]
@@ -63,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#def/gdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
+    "width": 262.5,
     "collapsed": true
   },
   "right": {
@@ -106,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3. Das Relationale Modell"
             }
           },
           {
@@ -139,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -153,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/TODO.md",
+                "file": "ASP/6/V2. Einführung SSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of V2. Einführung SSE"
             }
           },
           {
@@ -168,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "General/TODO.md"
+                "file": "GDB/3. Das Relationale Modell.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -183,157 +172,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "118082a3a52776d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "52cbde6d84eecffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/3/V4. Speicherbereiche.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V4. Speicherbereiche"
-            }
-          },
-          {
-            "id": "5dd736c15ccf8d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/4/V1. Effizientes Debugging.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V1. Effizientes Debugging"
-            }
-          },
-          {
-            "id": "2195944fbe729a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/4/V2. Debugging mit GDB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V2. Debugging mit GDB"
-            }
-          },
-          {
-            "id": "aa6afcedd8e24598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "6c9c94ce01ddbd0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP/7/V3. Profiling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "V3. Profiling"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,14 +188,17 @@
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "287f1da8a38867bc",
+  "active": "29d7441798cad0bf",
   "lastOpenFiles": [
+    "GBS/3. Parallele Systeme und Synchronisation.md",
+    "GBS/2. Prozess- und Prozessorverwaltung.md",
+    "ImGe/Universal Interaction.md",
     "zzzAttachments/Pasted image 20260201203015.png",
     "zzzAttachments/Pasted image 20260201202542.png",
     "zzzAttachments/Pasted image 20260201195451.png",
@@ -359,44 +207,41 @@
     "zzzAttachments/Pasted image 20260201184317.png",
     "zzzAttachments/Pasted image 20260201181639.png",
     "zzzAttachments/Pasted image 20260201171239.png",
-    "GBS/1. Einführung.md",
-    "GBS/2. Prozess- und Prozessorverwaltung.md",
     "zzzAttachments/Pasted image 20260201165453.png",
+    "ImGe/Accessibility.md",
     "General/TODO.md",
     "ASP/1/V1. Assembly Grundlagen 1.md",
-    "ASP/3/V3. System V ABI.md",
-    "ASP/Projekt.md",
-    "ASP/2/V1. Assembly Grundlagen 2.md",
-    "ImGe/Universal Interaction.md",
     "ASP/8/V1. Weitere SIMD Konzepte.md",
-    "ASP/7/V1. SIMD mit SSE.md",
-    "ASP/6/V2. Einführung SSE.md",
-    "ASP/7/V2. SIMD mit C.md",
     "zzzAttachments/Pasted image 20251219161235.png",
-    "zzzAttachments/Pasted image 20251219160838.png",
-    "ImGe/Accessibility.md",
-    "ASP/Projekt/Fragen.md",
-    "ASP/Projekt/Projekt.md",
-    "ASP/Projekt",
-    "ASP/7/V3. Profiling.md",
-    "Untitled.canvas",
+    "GBS/1. Einführung.md",
+    "GDB/3. Das Relationale Modell.md",
+    "ASP/7/V1. SIMD mit SSE.md",
+    "ASP/7/V2. SIMD mit C.md",
+    "ASP/3/V3. System V ABI.md",
+    "ASP/6/V2. Einführung SSE.md",
+    "ASP/5/V1. Sichere Programmierung.md",
+    "ASP/6/V1. Floating Point Zahlen.md",
+    "ASP/5/V2. Kompilierte Programme.md",
+    "ImGe/8. Game Prototyping.md",
+    "ImGe/9. OKU Case Study.md",
+    "ImGe/10. Wayfinding.md",
+    "ImGe/11. Visual Language.md",
+    "ASP/Projekt.md",
     "ASP/8",
+    "ASP/0.md",
+    "ASP/7/V3. Profiling.md",
     "ASP/6/V3. Benchmarking.md",
-    "ASP/3/V4. Speicherbereiche.md",
-    "ASP/4/V1. Effizientes Debugging.md",
-    "ASP/4/V2. Debugging mit GDB.md",
-    "ImGe/Phase 1/7. Travel.md",
-    "ImGe/Phase 1/6. Relationship - Travel and Camera Control.md",
-    "ImGe/Phase 1/5. Game View.md",
-    "ImGe/Phase 1/4. Camera.md",
-    "ImGe/Phase 1/3. Human vision & Depth cues.md",
-    "ImGe/Phase 1",
+    "ASP/7/P.md",
     "ASP/7",
+    "conflict-files-obsidian-git.md",
     "ASP/6",
+    "ImGe/Phase 1",
     "ASP/5",
     "ASP/4",
-    "ImGe/Camera & Visuals",
     "ASP/3",
-    "ASP/2/Blatt 2.xopp"
+    "ASP/2",
+    "Attachments",
+    "Attachments/ASP_Blatt_01.pdf",
+    "Untitled.canvas"
   ]
 }
