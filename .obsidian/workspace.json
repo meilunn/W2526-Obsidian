@@ -11,14 +11,24 @@
             "id": "287f1da8a38867bc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "ImGe/Phase 1/1. Games Humans Machines.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "1. Games Humans Machines"
             }
           }
         ]
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d265b1f13a1bf8d7",
@@ -141,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ImGe/imge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of imge"
             }
           },
           {
@@ -194,8 +206,13 @@
   },
   "active": "287f1da8a38867bc",
   "lastOpenFiles": [
-    "GBS/2. Prozess- und Prozessorverwaltung.md",
+    "ImGe/Klausur.md",
+    "ImGe/imge.md",
+    "zzzAttachments/Pasted image 20260208175009.png",
+    "zzzAttachments/Pasted image 20260208174956.png",
+    "GDB/UniSchema.png",
     "GBS/3. Parallele Systeme und Synchronisation.md",
+    "GBS/2. Prozess- und Prozessorverwaltung.md",
     "zzzAttachments/Pasted image 20260202204241.png",
     "zzzAttachments/Pasted image 20260202193850.png",
     "zzzAttachments/Pasted image 20260202181336.png",
@@ -203,9 +220,6 @@
     "zzzAttachments/Pasted image 20260201203015.png",
     "zzzAttachments/Pasted image 20260201202542.png",
     "zzzAttachments/Pasted image 20260201195451.png",
-    "zzzAttachments/Pasted image 20260201195034.png",
-    "zzzAttachments/Pasted image 20260201185337.png",
-    "zzzAttachments/Pasted image 20260201184317.png",
     "GBS/1. Einführung.md",
     "General/TODO.md",
     "ASP/1/V1. Assembly Grundlagen 1.md",
@@ -231,8 +245,6 @@
     "ImGe/Phase 1/7. Travel.md",
     "ImGe/Phase 1/6. Relationship - Travel and Camera Control.md",
     "ImGe/Phase 1/5. Game View.md",
-    "ImGe/Phase 1/4. Camera.md",
-    "ImGe/Phase 1/3. Human vision & Depth cues.md",
     "ImGe/Phase 1",
     "ASP/7",
     "ASP/6",
