@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8caa9962bd5b56",
+        "id": "9f378c7ef56edf47",
         "type": "tabs",
         "children": [
           {
-            "id": "051c491f1c01412f",
+            "id": "23ef57fa215bab0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImGe/Phase 1/7. Travel.md",
+                "file": "GBS/2. Prozess- und Prozessorverwaltung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Travel"
+              "title": "2. Prozess- und Prozessorverwaltung"
+            }
+          },
+          {
+            "id": "c45a28775df24f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GBS/9. Virtualisierung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "9. Virtualisierung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#def/gdb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -105,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -123,12 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDB/3. Das Relationale Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Das Relationale Modell"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,7 +163,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP/6/V2. Einführung SSE.md",
+                "file": "ImGe/imge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of V2. Einführung SSE"
+              "title": "Outline of imge"
             }
           },
           {
@@ -167,7 +192,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "GDB/3. Das Relationale Modell.md"
+                "file": "General/TODO.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -188,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,60 +223,60 @@
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "051c491f1c01412f",
+  "active": "c45a28775df24f24",
   "lastOpenFiles": [
-    "ImGe/Phase 1/3. Human vision & Depth cues.md",
-    "ImGe/Phase 1/2. Visual Displays.md",
-    "ImGe/Phase 1/5. Game View.md",
-    "ImGe/Phase 1/4. Camera.md",
-    "zzzAttachments/Pasted image 20260208175009.png",
-    "zzzAttachments/Pasted image 20260208174956.png",
-    "zzzAttachments/Pasted image 20260202204241.png",
-    "zzzAttachments/Pasted image 20260202193850.png",
-    "zzzAttachments/Pasted image 20260202181336.png",
-    "zzzAttachments/Pasted image 20260202181323.png",
-    "ImGe/imge.md",
-    "ImGe/Klausur.md",
-    "GBS/3. Parallele Systeme und Synchronisation.md",
+    "zzzAttachments/Pasted image 20260405204249.png",
+    "zzzAttachments/Pasted image 20260405204132.png",
+    "zzzAttachments/Pasted image 20260405202006.png",
+    "zzzAttachments/Pasted image 20260405201951.png",
+    "zzzAttachments/Pasted image 20260405175222.png",
+    "zzzAttachments/Pasted image 20260405175208.png",
     "GBS/2. Prozess- und Prozessorverwaltung.md",
-    "ImGe/Universal Interaction.md",
-    "zzzAttachments/Pasted image 20260201203015.png",
-    "zzzAttachments/Pasted image 20260201202542.png",
-    "zzzAttachments/Pasted image 20260201195451.png",
-    "zzzAttachments/Pasted image 20260201195034.png",
-    "ImGe/Accessibility.md",
-    "General/TODO.md",
-    "ASP/1/V1. Assembly Grundlagen 1.md",
-    "ASP/8/V1. Weitere SIMD Konzepte.md",
+    "GBS/8. Ein- & Ausgabe.md",
+    "GBS/9. Virtualisierung.md",
     "GBS/1. Einführung.md",
-    "GDB/3. Das Relationale Modell.md",
-    "ASP/7/V1. SIMD mit SSE.md",
-    "ASP/7/V2. SIMD mit C.md",
-    "ASP/3/V3. System V ABI.md",
-    "ASP/6/V2. Einführung SSE.md",
-    "ASP/5/V1. Sichere Programmierung.md",
+    "GBS/3. Parallele Systeme und Synchronisation.md",
+    "zzzAttachments/Pasted image 20260402183155.png",
+    "zzzAttachments/Pasted image 20260402183001.png",
+    "zzzAttachments/Pasted image 20260402180327.png",
+    "zzzAttachments/Pasted image 20260402175856.png",
+    "ASP/2/V4. Pointerarithmetik.md",
+    "ASP/2/V3. C-Strings.md",
+    "ASP/2/V2. Intel SDM.md",
+    "ASP/2/V1. Assembly Grundlagen 2.md",
+    "ASP/2/P.md",
+    "ASP/1/V2. Einführung zu C.md",
+    "ASP/1/V1. Assembly Grundlagen 1.md",
     "ASP/6/V1. Floating Point Zahlen.md",
-    "ASP/5/V2. Kompilierte Programme.md",
-    "ImGe/8. Game Prototyping.md",
-    "ImGe/9. OKU Case Study.md",
-    "ImGe/10. Wayfinding.md",
+    "ASP/7/V3. Profiling.md",
+    "ASP/5/V1. Sichere Programmierung.md",
+    "ASP/3/V4. Speicherbereiche.md",
+    "ASP/3/V1. Stack.md",
+    "ASP/7/V1. SIMD mit SSE.md",
+    "ASP/6/V2. Einführung SSE.md",
+    "ASP/8/V1. Weitere SIMD Konzepte.md",
+    "ASP/3/V3. System V ABI.md",
+    "ImGe/Klausur.md",
+    "ImGe/imge.md",
+    "ImGe/Accessibility.md",
     "ImGe/11. Visual Language.md",
+    "zzzAttachments/Pasted image 20260208175009.png",
+    "ASP/Projekt",
+    "Untitled.canvas",
     "ASP/8",
+    "ImGe/Phase 1",
     "ASP/7",
     "ASP/6",
-    "ImGe/Phase 1",
     "ASP/5",
     "ASP/4",
+    "ImGe/Camera & Visuals",
     "ASP/3",
-    "ASP/2",
-    "Attachments",
-    "Attachments/ASP_Blatt_01.pdf",
-    "Untitled.canvas"
+    "ASP/2/Blatt 2.xopp"
   ]
 }
