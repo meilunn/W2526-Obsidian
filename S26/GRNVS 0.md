@@ -36,3 +36,20 @@ prog + praxis + midterm = max 6 + 6 + 6 bonus (aber nur 15 anrechbar)
 	2. Verbindungscharakterisierung, Mehrfachzugriff und Medienzufriffskontrolle
 	3. Rahmenbindung, Adressierung & Fehererkennung
 	4. Verbingungen auf Schicht 1 & 2
+3. Vermittlingsschicht
+	1. Vermittlungsarten
+	2. Adressierung im Internet (IPV4/6)
+	3. Routing
+4. Transportschicht
+	1. Aufg der Transportschicht
+	2. Multiplexing durch Port-Nummern
+	3. Verbingslose Übertragung: UDP
+	4. Verbindungsorientierte Übertragung: TCP
+	5. Network Address Translation (NAT)
+5. Schichten 5-7
+	1. Schichten Vor/Nachteile
+	2. Sitzungsschicht
+	3. Darstellungsschicht
+	4. etc
+
+# Entstehungs des Internets
