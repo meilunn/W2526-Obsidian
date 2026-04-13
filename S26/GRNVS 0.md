@@ -54,4 +54,5 @@ prog + praxis + midterm = max 6 + 6 + 6 bonus (aber nur 15 anrechbar)
 
 # Entstehungs des Internets
 1982-94
+1994-08
 
