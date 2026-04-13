@@ -10,7 +10,13 @@ Turingmashine
 - Erklärt wie Menschen Sätze bauen
 - Seitdem wird die Syntax von Programmiersprachen durch sein Begriff von **formale Grammatiken** beschrieben.
 
+----
+
 **Erkennungsproblem**: Ist eine gegebene Zeichenkette ein Programm, d.h. kann sie von den Regeln erzeugt werden?
+
 **Recognizer**: Programm, welches das Erkennungsproblem für eine gegebene Grammatik löst
 - Recognizer -> Parser -> Compiler
 
+#### Hauptfragen:
+Für welche Grammatiken gibt es effiziente Recognizer?
+Gegeben eine Grammatik, wie kann ein Recognizer automatisch konstruiert werden?
