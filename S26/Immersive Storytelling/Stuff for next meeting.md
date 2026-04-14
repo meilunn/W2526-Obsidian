@@ -1,0 +1,13 @@
+wie comic visual sfx? (wie) animiert? 3d? 
+
+als nächstes 3D modelle vom gegner
+
+- philipp kakerlake/ameise?
+
+model für cockroaches ok? What needs to be changed? 
+
+Send me coin model for scale pls 
+
+mehr flesh out von npcs damit ich was dazu zeichnen könnte?
+
+- was für persönlichkeit, klamotten, größe, alter, etc

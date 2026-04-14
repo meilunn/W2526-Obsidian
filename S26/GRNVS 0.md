@@ -3,7 +3,6 @@
 Organisatorisches zur Vorlesung
 Zusammenfassung der einzelnen Kapitel
 Entstehung des Internets
-Schichtenmodelle
 
 
 # Org
