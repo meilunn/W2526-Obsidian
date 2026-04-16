@@ -115,4 +115,135 @@ general idea of including game elements in other applications (-> gamification)
 
 ----
 
-# Psychology
+# Social-Psychological Domain
+
+## Motivation
+
+Three motivational components for MMOG player type definition
+- _Achievement_: desire for advancement, mastery of game mechanics, love of competition
+- _Social_: socializing, building relationship, teamwork
+- _Immersion_: urge for discovery, love of role-playing, need for customization, motive of escapism
+
+intrinsic
+extrinsic
+
+Maslov's basic need hierarchy
+
+Schell
+- Self esteem level
+- belonging love level (-> maslov)
+
+## Emotions
+
+vs Mood
+- duration: moods longer
+- Trigger: emotions can be triggered more easily, binary, impulsive
+
+vs Personality
+- personality last even longer
+- not really triggered
+
+Pluchik's wheel of emotions - eight basic emotions
+
+Affective Computing
+- using computers to detect, interpret, and respond to human emotions in real-time
+- **Social Signal Processing**
+	- gestures, signs, audio cues leading to physiological responses
+	- -> *detection*: galvanic skin response, cardiovascular measures, ...
+
+## Forms of Engagement
+
+Levels of intensity
+- Involvement
+- Presence: perceptual illusion of nonmediation 
+- Immersion: illusory reality
+- **Flow**: holistic sensation that people feel when they act with total involvement (Csikzentmihalyi) 
+
+#### Flow 
+
+characteristics
+- intense & focused *concentration*
+- *merging* of action and awareness
+- *loss* of reflective self-consciousness
+- sense of *total control* of one's actions
+- distortion of *temporal* experience
+- experience of the activity as _intrinsically rewarding_
+
+conditions
+- sense of engaging *challenges* at *appropriate level* (neither too high or low) to skills & capabilities 
+- *clear* proximal *goals*
+- *immediate* feedback
+
+
+## Social Play - key elems
+
+
+**emotional contagion**: tendency to automatically *mimic* and *synchronize* expressions, vocalizations, postures, and movements with those of *another person's* and, consequently, to *converge emotionally*
+
+**Performance**
+- humans perform differently when they are watched 
+- <-> *Hawthorne effect*: change in human behaviour just by the fact that the people know that they are being observed
+
+## Studies of Ecosystem of Player Communities
+
+![[Pasted image 20260416124318.png|343]]
+
+- typical size of groups?
+- what graph/topology needed to model? 
+
+#### Research methods - Four groups
+
+ethnography / participant observation
+- interviews
+- gathering field data (e.g. downloading chat logs involving game)
+- external sources (e.g. scraping data from player forums)
+- video taping
+- focus groups (qualitative)
+
+survey (inside & outside virtual world)
+
+data analytics
+- data collection (crawling)
+- qualtitative analysis (data mining, machine learning)
+
+social network analysis
+- gold farming detection
+- detectable patterns of connectivity
+
+#### Study topics
+
+Self-organization
+- -> short-term or long-time groups & their context
+- **team dynamics**
+- Sub-topics
+	- *social structuring*: e.g. management, leadership, typology
+	- *rationales* of social structures
+	- *culture* and social norms
+	- *use* of informatin and communication *technology* (e.g. how to maintain code -> git)
+
+Demographics & Psychographics
+- what types of ppl play your game 
+
+Relationships between players and their avatars or characters
+
+Anti-social and misbehaviour 
+- are there destructive players & how to detect that
+
+Prediction of social interaction
+
+Communities that form around games
+Technological aspects
+
+----
+
+# Questions
+
+- Name two scientific methodologies that ludologists may use! Name four scientific fields that make contributions to ludology!
+- Name four characteristics of “play”!
+- Salen and Zimmerman state: “Games are a subset of play. Play is an element of games” Briefly discuss the meaning and difficulties of that definition!
+- Salen and Zimmerman define: “A game is a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome.” Discuss the limits of this definition!
+- Give your own definition of “Game Mechanics”!
+- Briefly characterize Casual Games as one of four types of games discussed!
+- Name and briefly characterize two classes of Casual Games!
+- What are advantages when characterizing game genres in terms of elements of game mechanics compared to characterizing game genres in terms of ludological genre frameworks?
+- Maslov’s Need Hierarchy contains the levels Physiological, Safety, Belonging‐Love, Self-­Esteem, Self-­Actualization. Which levels do Games and Social Media contribute to? Give a brief explanation!
