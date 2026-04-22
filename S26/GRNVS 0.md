@@ -1,9 +1,9 @@
-
-> [!tldr] 
-Organisatorisches zur Vorlesung
-Zusammenfassung der einzelnen Kapitel
-Entstehung des Internets
-
+**Tutorien**
+Di-1600-A      00.08.059  16:00    18:00           Simon B.
+Di-1600-B      03.13.010  16:00    18:00           Bella T.
+Mi-1200-A     00.08.038  12:00    14:00           Felix D.
+Mi-1000-A     01.06.020  10:00    12:00           Myroslav L.
+Fr-1000-A      03.09.014  10:00    12:00           Myroslav L.
 
 # Org
 Übungsblätter Bearbeitung in Tutorstunde
@@ -50,8 +50,4 @@ prog + praxis + midterm = max 6 + 6 + 6 bonus (aber nur 15 anrechbar)
 	2. Sitzungsschicht
 	3. Darstellungsschicht
 	4. etc
-
-# Entstehungs des Internets
-1982-94
-1994-08
 
