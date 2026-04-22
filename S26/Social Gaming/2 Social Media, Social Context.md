@@ -69,7 +69,7 @@ Fast dynamics
 Social information processing paradigm
 - collectively solve problems beyond individual capabilities
 
-> users = "prosumers"
+> users = "prosumers" (producer + consumer)
 
 
 Users **collaboratively explicate / model relations** of various kinds
@@ -81,7 +81,7 @@ Users **collaboratively explicate / model relations** of various kinds
 
 # Technologies
 
-general enabler technologies for Social Media: technologies for building general *Rich Internet Applications* (RIAs) or *Web-­‐applications* 
+general enabler technologies for Social Media: technologies for building general *Rich Internet Applications* (RIAs) or *Web‐applications* 
 
 - basic Web protocols (e.g. HTTP(S))
 - languages for declarative representation of structure, actual content, and format of content (e.g. HTML5, XML + related (e.g. XSLT), specialized XML languages (e.g. GML))
@@ -90,6 +90,11 @@ general enabler technologies for Social Media: technologies for building general
 - server-­‐side technologies (e.g. NodeJS, PHP, JSP, Python Django, Ruby on Rails, Spring, Databases)
 - syndication and mash-­‐up of content (e.g. RSS, Atom)
 - Social Software (e.g. Elgg, MediaWiki)
+
+
+# Social media classes
+
+
 
 
 
