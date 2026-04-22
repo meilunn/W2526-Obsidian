@@ -94,6 +94,100 @@ general enabler technologies for Social Media: technologies for building general
 
 # Social media classes
 
+All social interaction in Social Media may be viewed as forms of communication 
+-> characterise social media classes via classification system for communication
+
+Social media services and platforms will typicalls support communication that is m:n or 1:n (with m, n large), **non-commercial**, and has **implicity specified** audience
+
+
+## Axes characterising forms of communication
+
+Cardinality of persons involved in a typical communication act {1:1, 1:n, m:n}
+
+Audience specification
+- {direct (explicitly specified), indirect (implicitly specified)}
+- specific dedicated receiver / list of receivers vs. open set of receivers, possibly formally or informally constrained e.g. via certain properties
+
+Channel directedness
+- {unidirectional, bidirectional}
+
+Sender anonymity
+- {non-anonymous, anonymous}
+- the identity of the sender(s) is or is not known to the receiver(s)
+
+Threadedness
+- {threaded, non-threaded}
+- do 'reply-type' relations exist between representations of communication acts? 
+
+Content type
+- {textual, graphical, video, contextual (locations, social relations, user-item-relations etc.)}
+
+Transmission style
+- {stream, discrete}
+
+User Interface / Device / Usage Pattern
+- {mobile, laptop, desktop}
+
+Goals (may overlap)
+- higher level of abstraction: {informing or being informed, create or gain awareness, collaborate, chat, etc.}
+- lover level of abstraction: {find a partner, maintain + expand social network, generate + manage ideas, exchange movies or music, entertain or be entertained, explicate and organize knowledge, etc.}
+
+Commercialization 
+
+Speech Act characterization 
+- {locutionary act, illocutionary act, perlocutionary act}
+- saying smth, doing smth by saying smth, achieving and effect by saying smth (e.g. declare war)
+
+Context
+- {social contexts, location context, psychologial states, further media context etc.}
+
+## Classes
+
+ with an emphasis on certain forms of communication 
+ -> supported typical communication form, typical goals
+
+Blogs
+Microblogs
+Wikis
+Discussion boards (superclass: information services)
+Social Games
+
+### Collaboration oriented classes
+
+Open innovation platforms, Collaborative Creativity services and platforms
+- overlaps with: social networking platforms
+- typical goals: develop and incubate ideas and project proposals
+
+(Revision control)
+
+### Social networking & related classes
+
+Social networking platforms
+Mobile social networking platforms (kind of obsolete)
+Location-Based social networking platforms/services (overlaps strongly with mobile social networking)
+Profressional social networking platforms
+Partner finding / dating or friend finding platforms
+
+### Goal oriented classes
+
+Altruistic Community platforms
+Political community platforms
+Knowledge codifications services 
+
+### Classes with emphasis on content
+
+Events services / platforms
+News
+Social search
+etc
+
+## Non social media classes
+
+Messaging
+IP Telephony
+Chat
+
+-> typically m or n too small
 
 
 
