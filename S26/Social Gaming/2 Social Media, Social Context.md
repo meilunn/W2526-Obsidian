@@ -209,7 +209,7 @@ Social digital game
 - complex game worlds <-> social information spaces
 - parallels in aspects of *motivation*, flow
 
-#### distinctive aspects
+#### Distinctive aspects
 
 games
 - main purpose entertainment
