@@ -190,5 +190,49 @@ Chat
 -> typically m or n too small
 
 
+# Social games
+
+Social digital game
+- a game (in the sense of the definitions and characterizations of game as in this lecture)
+- makes substantial use of *digital computers* (def and char of digital game as in this lecture)
+- makes substantial *use of social context* / at least substantially involves *more than one player* (in its social & interactive gameplay, game mechanics, or rules etc)
+
+-> Distinction between social media & social game is not fully sharp
+
+#### Important common aspects social media <-> (Social) Games
+- mostly "outside" serious life, *leisure time oriented*, 
+	but both increasingly many "serious forms" (-> Serious Games, company SN, etc)
+- *communication* as important element
+- defined set of *rules*
+- *emergent* mechanics & dynamics; transformative use
+- *transmedial* access patterns, blurring real / virtual world
+- complex game worlds <-> social information spaces
+- parallels in aspects of *motivation*, flow
+
+#### distinctive aspects
+
+games
+- main purpose entertainment
+- stories and the imaginary
+- rules more explicit
+- mostly dedicated time to playing
+
+social media
+- main purpose communication, not only entertainment
+- mostly related to user's real life
+- rules often more implicit
+- mostly done "nebenbei"
+
+
+-> "unifying" class: leisure time oriented applications, services & platforms
+	->for this class: social context on various temporal scales play important role
+	-> we will define social context and investigate the **role, applications and detection** of **social context** using the example of **Social Networking**
+
+
+# Contextual Social Networking
+
+
+
+
 
 
