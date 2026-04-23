@@ -51,7 +51,7 @@ Web 1.0 *already providing* all basic prerequisites and characteristics of **col
 > -> "Social media" is not clearly defined
 
 
-# Social Media Characteristics
+## Social Media Characteristics
 
 Openess
 - admissibility, low technical barriers
